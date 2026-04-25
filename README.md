@@ -22,12 +22,10 @@ This project shows practical use of Excel `COUNTIF` through interview type quest
 ---
 
 ### 1. Count students from Karachi
-```excel
-=COUNTIF(C2:C7,"Karachi")
-
----
+   =COUNTIF(C2:C7,"Karachi")
 
 ### 1. Count students with marks greater than or equal to 60
+
 =COUNTIF(B2:B7,">=60")
 Count students with marks less than or equal to 60
 =COUNTIF(B2:B7,"<=60")
