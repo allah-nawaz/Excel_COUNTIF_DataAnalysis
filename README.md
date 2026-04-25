@@ -1,10 +1,10 @@
-# 📊 Excel COUNTIF Practice – Data Analysis Interview Preparation
+# 📊 Excel COUNTIF Practice For Data Analyst Interview Preparation
 
-This project demonstrates practical use of Excel `COUNTIF` and related functions through interview-style questions.
+This project shows practical use of Excel `COUNTIF` through interview type questions.
 
 ---
 
-## 📌 Dataset Used
+## Dataset Used
 
 | Name  | Marks | City       |
 |-------|------|------------|
@@ -25,7 +25,9 @@ This project demonstrates practical use of Excel `COUNTIF` and related functions
 ```excel
 =COUNTIF(C2:C7,"Karachi")
 
-Count students with marks greater than or equal to 60
+---
+
+### 1. Count students with marks greater than or equal to 60
 =COUNTIF(B2:B7,">=60")
 Count students with marks less than or equal to 60
 =COUNTIF(B2:B7,"<=60")
