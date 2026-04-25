@@ -1,4 +1,4 @@
-# 📊 Excel COUNTIF Questions For Data Analyst Interview Preparation
+# Excel COUNTIF Questions For Data Analyst Interview Preparation
 
 This project shows practical use of Excel `COUNTIF` through interview type questions.
 
@@ -17,7 +17,7 @@ This project shows practical use of Excel `COUNTIF` through interview type quest
 
 ---
 
-## 📊 COUNTIF Practice Questions & Answers
+## COUNTIF Practice Questions & Answers
 
 ---
 
@@ -50,41 +50,41 @@ This project shows practical use of Excel `COUNTIF` through interview type quest
 ```excel
 =COUNTIFS(B2:B7,">50",B2:B7,"<=80")
 ```
-Count students whose city starts with "K"
+### 8. Count students whose city starts with "K"
 ```excel
 =COUNTIF(C2:C7,"K*")
 ```
-Count students whose name has exactly 4 letters
+### 9. Count students whose name has exactly 4 letters
 ```excel
 =COUNTIF(A2:A7,"????")
 ```
-Count students based on value in cell D14 (city match)
+### 10. Count students based on value in cell D14 (city match)
 ```excel
 =COUNTIF(C2:C7,D14)
 ```
-Count marks greater than value in cell D14
+### 11. Count marks greater than value in cell D14
 ```excel
 =COUNTIF(B2:B7,">"&D14)
 ```
-Count students from Islamabad
+### 12. Count students from Islamabad
 ```excel
 =COUNTIF(C2:C7,"Islamabad")
 ```
-Count students with marks less than 40
+### 13. Count students with marks less than 40
 ```excel
 =COUNTIF(B2:B7,"<40")
 ```
-Count cities ending with "i"
+### 14. Count cities ending with "i"
 ```excel
 =COUNTIF(C2:C7,"*i")
 ```
-Count names starting with "A"
+### 15. Count names starting with "A"
 ```excel
 =COUNTIF(A2:A7,"A*")
 ```
 
 ### Imp Notes From this Project:
-COUNTIF = single condition counting
-COUNTIFS = multiple conditions
+COUNTIF = single condition counting <br>
+COUNTIFS = multiple conditions <br>
 Wildcards: * and ?
 
