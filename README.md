@@ -1,4 +1,4 @@
-# Excel COUNTIF Questions For Data Analyst Interview Preparation
+# Excel COUNTIF Questions For Data Analyst
 
 This project shows practical use of Excel `COUNTIF` through interview type questions.
 
